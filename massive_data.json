@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amit",
+      "friends": [2, 3, 4, 5, 6],
+      "liked_pages": [101, 102, 103]
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "friends": [1, 3, 4],
+      "liked_pages": [101, 104]
+    },
+    {
+      "id": 3,
+      "name": "Sneha",
+      "friends": [1, 2, 4, 7],
+      "liked_pages": [102, 105]
+    },
+    {
+      "id": 4,
+      "name": "Priya",
+      "friends": [1, 2, 3, 5],
+      "liked_pages": [103, 106]
+    },
+    {
+      "id": 5,
+      "name": "Kunal",
+      "friends": [1, 4, 6, 8],
+      "liked_pages": [101, 107]
+    },
+    {
+      "id": 6,
+      "name": "Neha",
+      "friends": [1, 5, 9],
+      "liked_pages": [108]
+    },
+    {
+      "id": 7,
+      "name": "Rohit",
+      "friends": [3, 8, 9],
+      "liked_pages": [104, 105]
+    },
+    {
+      "id": 8,
+      "name": "Pooja",
+      "friends": [5, 7, 10],
+      "liked_pages": [106, 107]
+    },
+    {
+      "id": 9,
+      "name": "Vikas",
+      "friends": [6, 7, 10],
+      "liked_pages": [108, 109]
+    },
+    {
+      "id": 10,
+      "name": "Anjali",
+      "friends": [8, 9],
+      "liked_pages": [109, 110]
+    }
+  ],
+  "pages": [
+    { "id": 101, "name": "Python Programming" },
+    { "id": 102, "name": "Data Science Hub" },
+    { "id": 103, "name": "Machine Learning India" },
+    { "id": 104, "name": "Tech News" },
+    { "id": 105, "name": "AI Research" },
+    { "id": 106, "name": "Web Development" },
+    { "id": 107, "name": "Startup Stories" },
+    { "id": 108, "name": "Cloud Computing" },
+    { "id": 109, "name": "Cyber Security" },
+    { "id": 110, "name": "Big Data Analytics" }
+  ]
+}
